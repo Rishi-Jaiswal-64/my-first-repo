@@ -1,0 +1,11 @@
+Learning git add and commit.
+
+Three Stages:
+- Working Directory
+- Staging Area
+- Commited
+
+Then comes Remote Repository
+
+`git add <filename>` is used to add files to staging area.
+`git commit -m "<message>"` is used to commit those changes.
